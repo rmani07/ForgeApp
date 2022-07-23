@@ -1,0 +1,16 @@
+modules:
+  jira:issuePanel:
+    - key: hello-world-app-hello-world-panel
+      function: main
+      title: Forge app for Raj
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/473f0e7e-8eb0-48b2-88cd-9ecf69b813a6
+permissions:
+  scopes:
+    - write:jira-work
+    - read:jira-work
+    - storage:app
