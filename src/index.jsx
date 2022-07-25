@@ -3,7 +3,7 @@ import ForgeUI, { render, Fragment, Text, IssuePanel, useProductContext, useStat
 import { storage, startsWith } from '@forge/api';
 
 await storage.query()
-  // Filter the response to only keys that start with the string 'value' test testsetsets testsetestsetset test
+  // Filter the response to only keys that start with the string 'value' test testsetsets testsetestsetset test test
   .where('key', startsWith('value'))
 
   // Limit the result size to 10 values
