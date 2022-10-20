@@ -4,7 +4,7 @@ This project contains a Forge app written in Javascript that displays `Hello Wor
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
-## Requirements test a  test
+## Requirements test a  test testing the connection
 
 See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
  
